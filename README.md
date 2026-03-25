@@ -60,6 +60,7 @@ grid = GridSearchCV(
     cv=3,
     n_jobs=-1
 )
+````
 
 ## 📊 Model Evaluation
 
