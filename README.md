@@ -64,7 +64,7 @@ grid = GridSearchCV(
 
 ## 📊 Model Evaluation
 
-### 🔹 Classification Report
+```` ### 🔹 Classification Report
 
           precision    recall  f1-score   support
 
@@ -77,7 +77,9 @@ accuracy                           0.02       200
 ### 🔹 Confusion Matrix
 
 [[ 0 196]
-[ 0 4]]
+[ 0 4]] 
+
+````
 
 
 ---
