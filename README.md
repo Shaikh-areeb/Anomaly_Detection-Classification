@@ -73,9 +73,9 @@ grid = GridSearchCV(
 
 accuracy                           0.02       200
 
-
+````
 ### 🔹 Confusion Matrix
-
+````
 [[ 0 196]
 [ 0 4]] 
 
